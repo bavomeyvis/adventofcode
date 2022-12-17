@@ -64,7 +64,7 @@ int main(){
 
             //     PART 2
 
-    /*
+
 
             if(fromStackLength > 0){
                 printf("From stack length %ld\n",fromStackLength);
@@ -81,7 +81,7 @@ int main(){
             }else{
                 printf("Don't move anything over.\n");
             }
-    */
+
 
 
 
