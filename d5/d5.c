@@ -32,7 +32,7 @@ int main(){
 
         if(lineInc == 9){
             for(int i = 1; i <= 9;i++){
-               memset(&stack[i][7],'\0',63);
+               memset(&stack[i][8],'\0',62);
             }
         }
 
